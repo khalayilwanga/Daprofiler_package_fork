@@ -1,9 +1,9 @@
 ## Daprofiler Fork
 
 This is a simple fork of the original [Daprofiler tool](https://github.com/daprofiler/DaProfiler).
-It is turned into a python package that can be easily installed using the [wheel]() provided in this repo using the command:
+It is turned into a python package that can be easily installed using the [wheel](https://github.com/khalayilwanga/Daprofiler_package_fork/blob/main/dist/daprofiler_tool-1.0-py3-none-any.whl) provided in this repo using the command:
 
-`python -m pip install <wheel here> `
+`python -m pip install https://github.com/khalayilwanga/Daprofiler_package_fork/blob/main/dist/daprofiler_tool-1.0-py3-none-any.whl `
 
 To import the main file and use in your project:
 
@@ -20,6 +20,3 @@ res = main(first_name ='john',
            )
 
 ```
-
-NB/
-In case the `daprofiler_tool` folder does not open refer to `daprofiler_too copy`
